@@ -1,0 +1,40 @@
+Rainfall_Prediction_Project/
+
+
+├── data/
+│ ├── raw/
+│ └── processed/
+│
+├── Dockerfile          
+├── docker-compose.yml  
+├── .env   
+|
+├── models/
+│ └── rainfall_best_model.joblib
+│
+├── src/
+│ ├── __init__.py
+│ ├── config.py
+│ ├── data_loader.py
+│ ├── preprocess.py
+│ ├── train.py
+│ ├── evaluate.py
+│ ├── predict.py
+│ └── utils.py
+│
+├── app/
+│ ├── __init__.py
+│ ├── api.py
+│ └── cli.py
+│
+├── notebooks/
+│ └── exploration.ipynb
+│
+├── tests/
+│ ├── test_preprocess.py
+│ ├── test_train.py
+│ └── test_predict.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
