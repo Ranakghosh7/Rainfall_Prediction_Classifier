@@ -90,7 +90,7 @@ uvicorn app.api:app --reload
 
 API documentation:
 👉 http://127.0.0.1:8000/docs
-
+ 
 ## 🐳 Run with Docker
 
 Build image:
