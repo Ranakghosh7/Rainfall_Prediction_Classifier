@@ -8,7 +8,7 @@ A complete Machine Learning project for predicting rainfall using weather and cl
 This project includes:
 - Data preprocessing (cleaning, feature engineering, scaling)
 - Model training using multiple algorithms
-- Model evaluation (accuracy, F1-score, confusion matrix)    
+- Model evaluation (accuracy, F1-score, confusion matrix)      
 - FastAPI-based prediction service
 - Dockerized application for deployment
 - Modular and production-ready architecture
