@@ -6,7 +6,7 @@ A complete Machine Learning project for predicting rainfall using weather and cl
 
 ## 🚀 Project Overview  .
 This project includes:
-- Data preprocessing (cleaning, feature engineering, scaling)
+- Data preprocessing (cleaning, feature engineering, scaling) 
 - Model training using multiple algorithms
 - Model evaluation (accuracy, F1-score, confusion matrix)      
 - FastAPI-based prediction service
