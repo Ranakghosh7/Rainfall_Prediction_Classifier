@@ -9,7 +9,7 @@ This project includes:
 - Data preprocessing (cleaning, feature engineering, scaling) 
 - Model training using multiple algorithms
 - Model evaluation (accuracy, F1-score, confusion matrix)      
-- FastAPI-based prediction service
+- FastAPI-based prediction service  
 - Dockerized application for deployment
 - Modular and production-ready architecture
 
